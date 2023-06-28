@@ -1,0 +1,39 @@
+
+@font-face {
+  font-family: Garamond;
+  src: local('Garamond');
+  src: url('../fonts/EBGaramond-VariableFont_wght.woff2') format('woff2'),
+    url('../fonts/EBGaramond-VariableFont_wght.woff') format('woff');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Segoe Script';
+  src: local('Segoe Script');
+  src: url('../fonts/segoesc.woff2') format('woff2'),
+    url('../fonts/segoesc.woff') format('woff');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: local('Roboto');
+  src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/Roboto-Regular.woff') format('woff');
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: local('Roboto');
+  src: url('../fonts/Roboto-Bold.woff2') format('woff2'),
+    url('../fonts/Roboto-Bold.woff') format('woff');
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+}
+
